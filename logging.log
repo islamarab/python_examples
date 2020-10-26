@@ -1,0 +1,9 @@
+2020-08-29 14:52:14,253 - __name__ - DEBUG - this is a debug message
+'2020-08-29 14:54:34' - __name__ - DEBUG - this is a debug message
+2020-08-29 14:54:44 - __name__ - DEBUG - this is a debug message
+2020-08-29 14:55:12 - __main__ - DEBUG - this is a debug message
+2020-08-29 14:56:27 - __main__ - DEBUG - this is a debug message
+2020-08-29 14:56:46 - __main__ - DEBUG - this is a debug message
+2020-08-29 14:58:37 - __main__ - WARNING - this is a debug message
+2020-08-29 14:58:51 - __main__ - WARNING - this is a debug message
+2020-08-29 14:58:58 - __main__ - WARNING - this is a debug message
